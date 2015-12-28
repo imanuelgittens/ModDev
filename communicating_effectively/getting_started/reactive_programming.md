@@ -1,6 +1,6 @@
 #Reactive Programming For 14 Year Olds
 
-If I had no resources to learn Reactive Programming other than this [Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming) article, I would surely be doomed. I'm sure that most people reading this article would be as thoroughly confused as I was, but as I've come to realize, as programmers we will often be faced with difficult chanllenges that we must overcome and this is no different. I hope that my understanding of Reactive Programming from this article will help you to get a better understanding of the concept and it's potential usage.  Let's get into it..
+If I had no resources to learn Reactive Programming other than this [Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming) article, I would surely be doomed. I'm sure that most people reading this article would be as thoroughly confused as I was, but as I've come to realize, as programmers we will often be faced with difficult challenges that we must overcome and this is no different. I hope that my understanding of Reactive Programming from this article will help you to get a better understanding of the concept and it's potential usage.  Let's get into it..
 
 Reactive programming is a way of writing your programs such that the output is always dependent on the input. If the input **changes** at any time, the output will also be **changed**. 
 
@@ -88,5 +88,12 @@ We can then go ahead with calculating the value of 'y' like so:
 	y = 7
 
 We can see that the value we get for y is '7' in a Reactive Programming environment and '5' in a non Reactive environment. 
+
+
+####Real World Example
+
+Another great example of Reactive Programming is a modern spreadsheet program like Microsoft Excel. The cells of these spreadsheets contain literal values or formulas like "=B1+C1" that are an evaluation of other cells. Whenever the value of the other cells **change**, the value of the formula is automatically updated.
+
+---
 
 We must always keep in mind that if we are writing a program where the results should always be accurately dependent on the input, then Reactive Programming is the way to go. 
