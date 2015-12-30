@@ -12,9 +12,9 @@ I didn't think much of it back then but maybe that really was the first seed bei
 
 ####Career Path and Plans
 ---
-Honestly I chose my current path (*Career Path 3 and 5*) because I'm thirsty for knowledge. What ever I do, I like to be the best at it so the more I learn, the better of I'll be. 
+Honestly I chose my current path (*Career Path 3 and 5*) because I'm thirsty for knowledge. What ever I do, I like to be the best at it so the more I learn, the better off I'll be. 
 
-I would also like to help my peers and co-workers to learn to program. The education we receive here doesn't really prepare you for the real world of web development so I decided to take the task upon myself to learn well and help other along the way. 
+I would also like to help my peers and co-workers to learn to program. The education we receive here doesn't really prepare you for the real world of web development so I decided to take the task upon myself to learn well and help others along the way. 
 ![My Work Peeps](https://scontent-mia1-1.xx.fbcdn.net/hphotos-xap1/t31.0-8/1497980_10153624521865037_1481132350_o.jpg) 
 
 ####Goals
@@ -30,7 +30,7 @@ Modern Developer gets me started on this journey by helping me to learn programm
 
 ####Demonstrating Perseverance
 ---
-The most recent instance in which I demonstrated perseverance was on a project at my job. We built a solution for a client using code that worked on IE9 forward only to find out that the client needed the solution to work in IE8. Needless to say this was a very frustrating experience. Even though I wasn't doing all the coding, I did just as much work researching why things weren't working and suggesting ways to fix things (A lot of 12-14 hour work days). In the end we managed to pull through, fixing things enough to get a working solution in IE8. 
+The most recent instance in which I demonstrated perseverance was on a project at my job. We built a solution for a client using code that worked in IE9 forward, only to find out that the client needed the solution to work in IE8. Needless to say this was a very frustrating experience. Even though I wasn't doing all the coding, I did just as much work researching why things weren't working and suggesting ways to fix them (a lot of 12-14 hour work days). In the end we managed to pull through, fixing things enough to get a working solution in IE8. 
 
 ####What I Do For Fun
 ---
@@ -48,8 +48,8 @@ Trinidad and Toabgo is a twin island Republic in the Caribbean. I live in Trinid
 
 >Life here is a mix between Quiet Island Life and Non Stop Partying!
 
-It is festive and we have a very laid back culture. We have people of all races who love to party and have a good time. (*A  lot of people go way overboard with the partying. lol*).Our annual Carnival attracts thousands of visitors every year - it's the biggest carnival in the Caribbean and the self proclaimed "Greatest Show on Earth". 
-We have beautiful beaches and there is a ferry that transports you across to Tobago that has even better beaches than Trinidad. Since their is so much micture between races and cultures, we also get to enjoy food from all over the world right here. :)
+It is festive and we have a very laid back culture. We have people of all races who love to party and have a good time. (*A  lot of people go way overboard with the partying. lol*). Our annual Carnival attracts thousands of visitors every year - it's the biggest carnival in the Caribbean and the self proclaimed "Greatest Show on Earth". 
+We have beautiful beaches and there is a ferry that transports you across to Tobago that has even better beaches than Trinidad. Since their is so much mixture between races and cultures, we also get to enjoy food from all over the world right here. :)
 
 >Of course with good also comes bad. 
 
@@ -62,10 +62,10 @@ All in all, I love Trinidad. I enjoy the culture and I just plan on tackling the
 ####Most Enjoyable Experience
 ---
 About 4 years ago we were just having a regular old boring Sunday until we couldn't take it any more. Me, my brother and a few of my friends just randomly got together, bought some bottles of rum, and decided to go to the river to *lime* (liming is the term we use for any social gathering). We didn't go to any of the rivers near our houses, we decided to run through a mountain trail to get to a river that was very far from where we live. 
-It was one of the most random and best experiences I ever had, we live close to the top of a small mountain in Trinidad so we ran down the slope on the dirt path, dodging branches, holes, bees and whatever else nature threw at us. When we go to the bottom, we had to walk a good distance on a regular road. We drank, got tipsy, sang songs and stopped at random shops to buy snacks and play pool (*billiards*). 
-When we got to the river their was about 150 other people there. A lot of them were very friendly and invited us to eat from the fireside food they made (Cooking by the river is very common in Trinidad). There was also music was playing from people's cars, adding to the festive atmosphere. 
+It was one of the most random and best experiences I ever had. We live close to the top of a small mountain in Trinidad so we ran down the slope on the dirt path, dodging branches, holes, bees and whatever else nature threw at us. When we go to the bottom, we had to walk a good distance on a regular road. We drank, got tipsy, sang songs and stopped at random shops to buy snacks and play pool (*billiards*). 
+When we got to the river their was about 150 other people there. A lot of them were very friendly and invited us to eat from the fireside food they made (Cooking by the river is very common in Trinidad). There was also music playing from people's cars, adding to the festive atmosphere. 
 When we got to the river we had diving competitions and competitions to see who could jump into the river from the highest point on the adjacent hill. 
-After all this, we left the river way too late and had to run back up the mountain dirt path at night with not even the moon out to help us. We scrambled back up the hill using our cell phones screens as lights. AFter much struggle I got home and slept like a baby. :) 
+After all this, we left the river way too late and had to run back up the mountain dirt path at night with not even the moon to help us see. We scrambled back up the hill using our cell phones screens as lights. After much struggle we all got home and I slept like a baby. :) 
 
 ![Hardcore](https://scontent-mia1-1.xx.fbcdn.net/hphotos-xtl1/v/t1.0-9/1982259_1714839405414948_9070190978763702448_n.jpg?oh=c61ea883aa1894931183baebcb53540f&oe=5709916E) 
 

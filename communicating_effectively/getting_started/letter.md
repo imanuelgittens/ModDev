@@ -1,4 +1,5 @@
 *Date*: **26th Dec 2015**
+
 *To*: **Manager - More Vino Restaurant**
 
 I hope this letter meets you in good cheer as we celebrate the Christmas season. With 2016 fast approaching, I wish all blessings to you and your loved ones. I also wish you a bright and prosperous new year. 
@@ -12,5 +13,7 @@ Coming from an impoverished household myself when I was growing up, I know that 
 If you are interested and would like help to set up a meeting, I would be more than willing to contact them on your behalf and facilitate. I look forward to your response.  
 
 
-*All the best to you and yours
-Imanuel Gittens*
+
+*All the best to you and yours*
+
+*Imanuel Gittens*
