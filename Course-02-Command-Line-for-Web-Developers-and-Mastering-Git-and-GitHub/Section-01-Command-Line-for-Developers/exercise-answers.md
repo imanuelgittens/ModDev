@@ -76,7 +76,11 @@
 
 18.
 
+	alias flag="ping 127.0.0.1 -c "
+
 19.
+
+	find -name "*.md" -exec cat {} \;
 
 20.
 
