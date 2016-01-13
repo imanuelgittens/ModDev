@@ -87,4 +87,61 @@
 	rm yesterday_todo_list.md
 
 
+#Project Assignment 2
+
+1.
+
+
+	echo Imanuel > myname.md
+
+
+	echo Pie Pizza Beans > myfavoritefoods.md
+
+
+	touch dreamproject.md
+	pico dreamproject.md
+	(Write about project) 
+	^X
+	Y
+
+	echo I like to listen to reggae as well as positive rap music. > music.md
+
+	
+	blue > colors.md
+
+2.
+
+	ls -lS > filesizes.txt
+
+3.
+
+	mkdir backups
+	tar -czf backups/backup1.tar myname.md myfavoritefoods.md dreamproject.md music.md colors.md filesizes.txt
+
+4.
+
+	echo -e ign.com \n youtube.com \n twitch.tv 
+
+5.
+
+	curl -L yahoo.com > yahoo.html
+
+6.
+
+7.
+
+	wc -w dreamproject.md
+
+8.
+
+	grep -c ".js" yahoo.html
+
+9.
+
+	find *txt | wc -w
+
+10.
+
+	tar -czf backups/backup2.tar colors.md dreamproject.md filesizes.txt javascripts.html music.md myfavoritefoods.md myname.md sites.txt yahoo.html
+	find *txt *md *html -delete
 
