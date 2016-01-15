@@ -1,4 +1,4 @@
-#Project Assignment 1
+##Project Assignment 1
 
 ###Beginner
 1.
@@ -87,7 +87,8 @@
 	rm yesterday_todo_list.md
 
 
-#Project Assignment 2
+
+##Project Assignment 2
 
 1.
 
@@ -124,9 +125,11 @@
 
 5.
 
-	curl -L yahoo.com > yahoo.html
+	curl -L study.moderndeveloper.com > study.html
 
 6.
+
+	mv backup1.tar "$(date).tar"
 
 7.
 
@@ -138,7 +141,7 @@
 
 9.
 
-	find *txt | wc -w
+	cat *txt | wc -w
 
 10.
 

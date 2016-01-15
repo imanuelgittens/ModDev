@@ -1,0 +1,7 @@
+total 20
+-rw-rw-r-- 1 imanuel imanuel 526 Jan 13 06:04 dreamproject.md
+-rw-rw-r-- 1 imanuel imanuel  59 Jan 13 06:08 music.md
+-rw-rw-r-- 1 imanuel imanuel  15 Jan 13 06:00 myfavoritefoods.md
+-rw-rw-r-- 1 imanuel imanuel   8 Jan 13 05:58 myname.md
+-rw-rw-r-- 1 imanuel imanuel   5 Jan 13 06:08 colors.md
+-rw-rw-r-- 1 imanuel imanuel   0 Jan 13 06:09 filesizes.txt
