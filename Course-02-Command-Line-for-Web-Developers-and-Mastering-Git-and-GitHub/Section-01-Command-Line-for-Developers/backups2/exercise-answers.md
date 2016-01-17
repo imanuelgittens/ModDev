@@ -30,7 +30,7 @@
 
 7.
 
-	pico "socks to buy.txt"
+	nano socks to buy.txt
 
 
 8.
@@ -52,7 +52,7 @@
 
 12.
 
-	cd "/c/Users/Default User/My Documents"
+	cd "C:/Users/Default User/My Documents"
 
 13.
 
@@ -64,7 +64,7 @@
 
 15.
 
-	echo -e My name is Imanuel \n
+	printf "My name is Imanuel\n"
 
 16.
 
@@ -76,11 +76,11 @@
 
 18.
 
-	ping 127.0.0.1 -c 2
+	alias flag="ping 127.0.0.1 -c "
 
 19.
 
-	cat *.md
+	find -name "*.md" -exec cat {} \;
 
 20.
 
@@ -88,7 +88,7 @@
 
 
 
-###Intermediate
+##Project Assignment 2
 
 1.
 
@@ -101,7 +101,7 @@
 
 	touch dreamproject.md
 	pico dreamproject.md
-	My dream project is to create a logistics platform that connects online store owners to delivery companies in the Caribbean. This will give eCommerce in this region a massive boost since there is no system that does this right now. 
+	(Write about project) 
 	^X
 	Y
 
@@ -137,7 +137,7 @@
 
 8.
 
-	grep -c ".js" > javascripts.html
+	grep -c ".js" yahoo.html
 
 9.
 
@@ -148,35 +148,3 @@
 	tar -czf backups/backup2.tar colors.md dreamproject.md filesizes.txt javascripts.html music.md myfavoritefoods.md myname.md sites.txt yahoo.html
 	find *txt *md *html -delete
 
-
-###Advanced
-
-1.
-
-	echo Expanding ./backups/backup2.tar into ./backuptest
-	mkdir -p $2
-	tar -xf $1 -C $2
-	echo Done
-
-2.
-
-	echo Creating Web Project Directory
-
-	mkdir -p $1
-	mkdir -p $1/css
-	mkdir -p $1/images
-	mkdir -p $1/js
-
-	touch $1/css/style.css
-	touch $1/js/main.js
-
-	echo "<html><head></head><body><h1>$2</h1></body></html>" > $1/index.html
-	echo "h1 {font-color: blue;}" > $1/css/style.css
-
-	echo Done
-
-3.
-
-	echo Combining Files
-	cat $2 > $1
-	echo Done
